@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+venv/
+# Data & models (keep repos light; note where to get them)
+*.pt
+*.weights
+*.mp4
+*.avi
+data/raw/
+*.csv
+!sample_*.csv
+# OS
+.DS_Store
